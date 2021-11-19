@@ -132,7 +132,7 @@ function App() {
           Instructions
         </Accordion.Header>
         <Accordion.Body>
-          <p>Put your values into input 1 and Input 2. Select the button below to perform the action. Input 2 will be subtracted from Input 1, and Input 1 will be divided by input 2. If you choose sq root, only the first input will be used</p>
+          <p>Put your values into input 1 and Input 2. Select a button along the bottom to perform the corresponding action. Input 2 will be subtracted from Input 1, and Input 1 will be divided by input 2. If you choose squre root, only the first input will be used.</p>
           <p>You are able to change the output type by selecting from the right side. Default is standard decimal.</p>
         </Accordion.Body>
       </Accordion>
